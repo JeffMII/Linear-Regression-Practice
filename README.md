@@ -1,5 +1,3 @@
-Jeffrey Myers II | Western Kentucky University - CS456 - Dr. Xia | HW2 - Linear Regression Models - 09/26/2023
-
 # Overview
 This is a `Python` project that demonstrates the use of `Scikit-Learn` and `Pandas` libraries for linear regression and logistic regression tasks. The project involves reading data for four different linear regression models from Scikit-Learn, training the models using the loaded data, and evaluating their performance using various evaluation metrics.
 
