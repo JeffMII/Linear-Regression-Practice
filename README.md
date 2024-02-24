@@ -105,5 +105,3 @@ Contributions are welcome! If you find any issues or want to enhance the project
 # License
 
 This project is licensed under the MIT License.
-
-Feel free to customize and update the README.md as needed for your specific project.
